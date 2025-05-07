@@ -32,6 +32,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&logoWidth=40)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white&logoWidth=40)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white&logoWidth=40)
+![Python](https://img.icons8.com/color/24/000000/python.png) Python
+
+
+
 
 </div>
 
@@ -50,4 +54,6 @@
 
 <div align="center">
  
-<h1>📲Redes sociais</h1>
+<h1>📲Redes sociais</h1>![download](https://github.com/user-attachments/assets/58912781-6838-4861-8b1d-b8ce76364040)
+
+
