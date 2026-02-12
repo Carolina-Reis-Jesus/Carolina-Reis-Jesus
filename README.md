@@ -45,7 +45,7 @@
 
 
   ## [Gostosuras](https://github.com/Carolina-Reis-Jesus/novotec/tree/main/tcc)
-  ## [Website Responsivo](https://github.com/Carolina-Reis-Jesus/novotec/tree/main/projetos/website-responsivo)
+  ## [Website Responsivo](https://carolina-reis-jesus.github.io/website-responsivo/)
  
   
 
