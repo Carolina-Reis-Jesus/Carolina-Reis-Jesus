@@ -1,59 +1,66 @@
-## 👩‍💻Carolina Reis
-
-
--🌐 Location: From São Paulo, SP, Brazil. 
-- 👩🏻‍🎓 Education: Graduated in Internet of Things Technician and studying computer science.
-  
-<ul>
-
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=aura&height=120&section=header"/>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9B30FF,&size=25&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Carolina+Reis!;I'm+from+São+Paulo,+Brazil.;I'm+learning+Computer+Science+📊+.;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
-<div align="center">  
- <img  src="https://github-readme-stats.vercel.app/api?username=Carolina-Reis-Jesus&show_icons=true&hide_border=true&title_color=f2e8cf&langs_count=7&theme=radical" alt="Carolina Reis de Jesus github stats" /> 
- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolina-Reis-Jesus&layout=compact&title_color=f2e8cf&langs_count=7&theme=radical"/>
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=aura&section=footer"/>
-</div>
-
-
-</ul>
-   
-</div>
-   
-<h1>🤖Tecnologias</h1>
-
-
-
-
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&logoWidth=40)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white&logoWidth=40)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white&logoWidth=40)
-![Python](https://img.icons8.com/color/24/000000/python.png) Python
-
-
-
-
-</div>
-
-<div align="left">
-<h1>Principais Projetos</h1>
- 
-
-
-  ## [Gostosuras](https://github.com/Carolina-Reis-Jesus/novotec/tree/main/tcc)
-  ## [Website Responsivo](https://carolina-reis-jesus.github.io/website-responsivo/)
- 
-  
-
-
-</div>
-
 <div align="center">
- 
-<h1>📲Redes sociais</h1>![download](https://github.com/user-attachments/assets/58912781-6838-4861-8b1d-b8ce76364040)
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
+</div>
+
+<h1 align="center">💜 Carolina Reis</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=BB86FC&size=25&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Future+Software+Engineer;Front-end+Developer;Building+my+tech+career+🚀" />
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=120&section=header"/>
+
+## 👩‍💻 About Me
+
+I am a Computer Science student passionate about building responsive and interactive web applications.
+
+Currently focused on:
+
+- Advanced JavaScript
+- Responsive Web Development
+- Software Engineering fundamentals
+- Writing clean and organized code
+
+I enjoy transforming ideas into real projects and constantly improving my technical skills.
+
+---
+
+## 🛠️ Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python" />
+</p>
+
+---
+
+## 🌟 Main Projects
+
+### ✈️ Website Responsivo
+Responsive travel website featuring dark mode, carousel and modern UI.
+
+🔗 Live Demo:  
+https://carolina-reis-jesus.github.io/website-responsivo/
+
+📁 Repository:  
+https://github.com/Carolina-Reis-Jesus/website-responsivo
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Carolina-Reis-Jesus&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolina-Reis-Jesus&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Carolina-Reis-Jesus&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=120&section=footer"/>
