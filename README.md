@@ -37,18 +37,6 @@ I enjoy transforming ideas into real projects and constantly improving my techni
 
 ---
 
-## 🌟 Main Projects
-
-### ✈️ Website Responsivo
-Responsive travel website featuring dark mode, carousel and modern UI.
-
-🔗 Live Demo:  
-https://carolina-reis-jesus.github.io/website-responsivo/
-
-📁 Repository:  
-https://github.com/Carolina-Reis-Jesus/website-responsivo
-
----
 
 ## 📊 GitHub Analytics
 
